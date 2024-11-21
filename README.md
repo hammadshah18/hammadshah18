@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Karachi, Pakistan</h3>
  
 <img>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aitzaz-hakro&label=Profile%20views&color=0e75b6&style=flat" alt="aitzaz-hakro" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadshah18&label=Profile%20views&color=0e75b6&style=flat" alt="aitzaz-hakro" /> </p>
 
 
 - 👯 I’m looking to collaborate on **Web Development projects**
